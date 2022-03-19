@@ -1,6 +1,6 @@
 package week5.day1;
 
-public class Student {
+public class Student  extends College {
 	public void studentName() {
 	     System.out.println("student Name: Sara");
 }
